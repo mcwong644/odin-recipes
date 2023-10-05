@@ -1,6 +1,12 @@
 # odin-recipes
 odin project
 
+Developed using:- 
+1.WSL2 Ubuntu 22.04
+2.Server version: Apache/2.4.52 (Ubuntu)
+    Server built:   2023-05-03T20:02:51
+
+
 https://www.theodinproject.com/lessons/foundations-recipes
 
 Create a new repo for this project on GitHub.com and call it odin-recipes and choose the public option instead of the default private.
